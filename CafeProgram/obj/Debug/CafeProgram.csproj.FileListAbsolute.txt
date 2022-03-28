@@ -1,0 +1,105 @@
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.exe
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.pdb
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\PUM\C#_study\workplace\prj\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\Users\User\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe
+C:\Users\User\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.exe
+C:\Users\User\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.pdb
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.exe
+C:\Users\heebum\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.pdb
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.exe
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.exe
+C:\Users\moble\Desktop\CafeProgram\CafeProgram\obj\Debug\CafeProgram.pdb
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.exe
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.exe
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.pdb
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.exe
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.exe
+C:\Users\moble\Documents\카카오톡 받은 파일\CAFEPR~1\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.pdb
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.exe
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.AssemblyReference.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Group.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Help.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.LoginForm.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.MainForm.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Memo.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.Properties.Resources.resources
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.GenerateResource.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.csproj.CoreCompileInputs.cache
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.exe
+C:\Users\moble\Desktop\CafeProgram (2)\CafeProgram (2)\CafeProgram\obj\Debug\CafeProgram.pdb
